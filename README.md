@@ -1,6 +1,6 @@
-# 🎨 Musa Ecommerce - Frontend
+# 🎨 Ecommerce Platform
 
-A modern React frontend for the Musa Ecommerce Platform, built with Vite and styled with Tailwind CSS.
+A modern React frontend for the Ecommerce Platform, built with Vite and styled with Tailwind CSS.
 
 ## 🛠️ Tech Stack
 
